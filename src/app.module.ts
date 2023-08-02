@@ -21,6 +21,5 @@ import { JobsModule } from './jobs/jobs.module';
     UsersModule,
     JobsModule,
   ],
-  providers: [JobsService],
 })
 export class AppModule {}
